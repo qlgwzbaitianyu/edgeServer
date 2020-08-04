@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: edge-edgeserver
+server:
+  port : 8081
+jwt:
+  secret: secret
+  timeout: 15000
+  username: cav
